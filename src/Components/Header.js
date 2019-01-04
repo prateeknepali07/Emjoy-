@@ -61,18 +61,6 @@ export default class Header extends Component {
             </li>
           </ul>
         </div>
-        <div class="conatiner ">
-          <ul class="tabs tabs-transparent">
-            <li class="tab">
-              <a href="#test1">Customer login</a>
-            </li>
-            <li class="tab">
-              <a class="active" href="#test2">
-                Developer Login
-              </a>
-            </li>
-          </ul>
-        </div>
       </nav>
     );
   }
