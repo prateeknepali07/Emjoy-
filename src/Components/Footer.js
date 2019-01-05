@@ -3,9 +3,9 @@ import React, { Component } from 'react';
 export default class Footer extends Component {
   render() {
     return (
-      <footer class="light blue page-footer">
+      <footer class="light blue page-footer" id="footer-bottom">
         <div class="container">
-          <div id=" footer-bottom">
+          <div>
             <div class="row">
               <div class="col l6 s12">
                 <h4 class="white-text">Footer Content</h4>
